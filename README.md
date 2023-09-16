@@ -1,10 +1,10 @@
-### Welcome to My GitHub Profile! 👋
+### Hi threre ! 👋
 
 I'm Sifex, a 20-year-old French-Russian developer based in Paris, with a passion for coding and a diverse programming journey. Over the last five years, I've honed my skills and experiences, and now I'm embarking on an exciting journey into blockchain development.
 
 ## About Me
 
-- 🇫🇷 **Background**: Hailing from both French and Russian heritage, I've been immersed in two rich cultures that have influenced my approach to problem-solving and creativity.
+- 🇫🇷🇷🇺 **Background**: Hailing from both French and Russian heritage, I've been immersed in two rich cultures that have influenced my approach to problem-solving and creativity.
 
 - 💻 **Programming Skills**: My primary programming languages are C, C++, and Python. I've dedicated myself to mastering these languages, enabling me to take on a wide array of coding challenges. I've also had the opportunity to apply my coding skills during my high school years, where my consistently high grades reflected my proficiency and passion for programming. I excelled in my exams, thanks to my solid foundation and skill in coding.
 
