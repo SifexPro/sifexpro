@@ -1,7 +1,5 @@
 ### Welcome to My GitHub Profile! 👋
 
-![Banner Image](https://placekitten.com/1000/300) <!-- Replace with an image that represents you or your work -->
-
 I'm Sifex, a 20-year-old French-Russian developer based in Paris, with a passion for coding and a diverse programming journey. Over the last five years, I've honed my skills and experiences, and now I'm embarking on an exciting journey into blockchain development.
 
 ## About Me
@@ -37,6 +35,8 @@ I'm relatively new to GitHub, so you won't find many commits in my history. Whil
 Feel free to reach out if you have questions, project ideas, or if you're interested in collaborating. I'm always open to exciting opportunities and making meaningful contributions to the world of technology.
 
 Let's code the future together!
-<--- [Your Personal Website](https://your-website.com) 
+<!--- 
+[Banner Image](https://placekitten.com/1000/300)
+[Your Personal Website](https://your-website.com) 
  [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
- [Your Email Address](mailto:your.email@example.com) ---> 
+ [Your Email Address](mailto:your.email@example.com) ---!>
