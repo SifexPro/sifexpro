@@ -7,7 +7,7 @@ I'm Sifex, a 20-year-old French-Russian developer based in Paris, with a passion
 - 💻 **Programming Skills**: My primary programming languages are C, C++, and Python. I've dedicated myself to mastering these languages, enabling me to take on a wide array of coding challenges. I've also had the opportunity to apply my coding skills during my high school years, where my consistently high grades reflected my proficiency and passion for programming. I excelled in my exams, thanks to my solid foundation and skill in coding.
 
 - 🌐 **Web Development**: In addition to low-level programming, I've also ventured into web development using PHP, HTML, and JavaScript. I believe in being a well-rounded developer. Furthermore, I've built APIs and database systems for my programs, enhancing their functionality and interactivity, and ensuring a robust user experience.
-- 
+  
 ## My Coding Journey
 
 My coding journey has been a remarkable one:
