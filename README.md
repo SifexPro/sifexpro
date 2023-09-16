@@ -1,7 +1,3 @@
-### Hi threre ! 👋
-
-I'm Sifex, a 20-year-old French-Russian developer based in Paris, with a passion for coding and a diverse programming journey. Over the last five years, I've honed my skills and experiences, and now I'm embarking on an exciting journey into blockchain development.
-
 ## About Me
 
 - 🇫🇷🇷🇺 **Background**: Hailing from both French and Russian heritage, I've been immersed in two rich cultures that have influenced my approach to problem-solving and creativity.
