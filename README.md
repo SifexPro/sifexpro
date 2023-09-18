@@ -20,6 +20,5 @@ My coding journey:
 
 - 🌐 **Blockchain Learning**: I'm currently immersed in blockchain development, aiming to harness its potential for innovative solutions.
 
-## GitHub Presence
-
+*GitHub Presence*
 <sub>I'm relatively new to GitHub, with limited commits. While some of my projects are open source, others remain private. GitHub serves as both my portfolio and cloud repository for my projects.</sub>
