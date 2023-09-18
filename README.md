@@ -23,11 +23,3 @@ My coding journey:
 ## GitHub Presence
 
 I'm relatively new to GitHub, with limited commits. While some of my projects are open source, others remain private. GitHub serves as both my portfolio and cloud repository for my projects.
-
-## Contact
-
-- 🌐 **Website**: *Coming soon*
-- 💼 **LinkedIn**: *Coming soon*
-- 📧 **Email**: *Coming soon*
-
-Feel free to reach out for questions, project ideas, or collaboration opportunities. Let's code the future together!
