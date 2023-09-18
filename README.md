@@ -16,7 +16,7 @@ My coding journey:
 
 - 🎮 **Game Cheats**: During this time, I refined my coding skills by creating sophisticated undetectable cheat software for video games. These cheats not only gave players a competitive advantage but also featured a sleek, user-friendly graphical interface. My main aim was to produce high-quality, effective cheats for sale, enhancing my programming skills significantly.
 
-- 🤖 **Efficiency Bots**: I designed efficient bots, including a sneaker purchasing bot for resale. I also automated purchases of items like PS5 consoles and concert tickets for profit.
+- 🤖 **Efficiency Bots**: I delved into automation, creating efficient bots. Notably, I designed a sneaker purchasing bot for acquiring limited-edition sneakers for resale. I also explored bot automation for items like PS5 consoles and concert tickets, aiming for profitable resale. This experience merged coding skills with entrepreneurial instincts, enhancing my expertise in automation and efficiency.
 
 - 🌐 **Blockchain Learning**: Currently, I'm delving into blockchain development to create innovative solutions.
 
