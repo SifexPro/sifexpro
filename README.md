@@ -14,7 +14,7 @@ My coding journey:
 
 - 🚀 **Hacking Adventures**: I began my coding journey with a hacking mindset at 12-13, exploring cybersecurity intricacies. By 15-16, I'd mastered various skills in this field. Initially, I delved into unconventional activities like website and individual hacking, sparking my coding passion. Over time, I shifted my focus to software development
 
-- 🎮 **Game Cheats**: I developed undetectable cheat software for video games, providing players with a competitive edge. I created sleek, user-friendly GUIs and sold these cheats to gamers.
+- 🎮 **Game Cheats**: During this time, I refined my coding skills by creating sophisticated undetectable cheat software for video games. These cheats not only gave players a competitive advantage but also featured a sleek, user-friendly graphical interface. My main aim was to produce high-quality, effective cheats for sale, enhancing my programming skills significantly.
 
 - 🤖 **Efficiency Bots**: I designed efficient bots, including a sneaker purchasing bot for resale. I also automated purchases of items like PS5 consoles and concert tickets for profit.
 
