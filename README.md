@@ -18,8 +18,6 @@ My coding journey:
 
 - 🤖 **Efficiency Bots**: I delved into automation, creating efficient bots. Notably, I designed a sneaker purchasing bot for acquiring limited-edition sneakers for resale. I also explored bot automation for items like PS5 consoles and concert tickets, aiming for profitable resale. This experience merged coding skills with entrepreneurial instincts, enhancing my expertise in automation and efficiency.
 
-- 🌐 **Blockchain Learning**: Currently, I'm delving into blockchain development to create innovative solutions.
-
 - 🌐 **Blockchain Learning**: I'm currently immersed in blockchain development, aiming to harness its potential for innovative solutions.
 
 ## GitHub Presence
