@@ -12,7 +12,7 @@ I'm Sifex, a 20-year-old French-Russian developer based in Paris. I'm passionate
 
 My coding journey:
 
-- 🚀 **Hacking Adventures**: I began exploring cybersecurity at 13-14 and mastered various skills by 15-16. This early exploration ignited my passion for coding.
+- 🚀 **Hacking Adventures**: I began my coding journey with a hacking mindset at 12-13, exploring cybersecurity intricacies. By 15-16, I'd mastered various skills in this field. Initially, I delved into unconventional activities like website and individual hacking, sparking my coding passion. Over time, I shifted my focus to software development
 
 - 🎮 **Game Cheats**: I developed undetectable cheat software for video games, providing players with a competitive edge. I created sleek, user-friendly GUIs and sold these cheats to gamers.
 
