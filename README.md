@@ -19,5 +19,5 @@ I'm Sifex, a 20-year-old French-Russian developer based in Paris. I'm passionate
 - 🌐 **Blockchain Learning**: I'm currently immersed in blockchain development, aiming to harness its potential for innovative solutions.
 
 #### GitHub Presence
-I have limited commits in my history because I've often worked underground, handling private and solo projects, which led me to initially overlook the utility of GitHub.
+
 <sub>I'm relatively new to GitHub, I've often worked underground, handling private and solo projects, which initially led me to overlook the utility of GitHub. That's why you'll find limited commits in my history. While some projects are open source and available for collaboration, others remain private. GitHub serves as both my portfolio and cloud repository for my projects.</sub>
