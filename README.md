@@ -1,6 +1,6 @@
 # About Me
 
-I'm Sifex, a 20-year-old French-Russian developer based in Paris. I'm passionate about coding and have a diverse programming background, including C, C++, Python, and web development (PHP, HTML, JavaScript). 
+I'm Sifex, a 20-year-old French-Russian developer based in Paris. I'm passionate about coding and have a diverse programming background, including C, C++, Rust, Solidity, Python, web development (PHP, HTML, JavaScript), ... 
 
 - :fr::ru: **Background**: My dual heritage from France and Russia has enriched my problem-solving skills and creativity.
 
@@ -16,7 +16,7 @@ I'm Sifex, a 20-year-old French-Russian developer based in Paris. I'm passionate
 
 - 🤖 **Efficiency Bots**: I delved into automation, creating efficient bots. Notably, I designed a sneaker purchasing bot for acquiring limited-edition sneakers for resale. I also explored bot automation for items like PS5 consoles and concert tickets, aiming for profitable resale. This experience merged coding skills with entrepreneurial instincts, enhancing my expertise in automation and efficiency.
 
-- 🌐 **Blockchain Learning**: I'm currently immersed in blockchain development.
+- 🌐 **Blockchain**: Working with SpiritSwap.
 
 **GitHub Presence**
 
