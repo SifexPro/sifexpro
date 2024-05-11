@@ -1,6 +1,6 @@
 # About Me
 
-I'm Sifex, a 20-year-old French-Russian developer based in Paris. I'm passionate about coding and have a diverse programming background, including C, C++, Rust, Solidity, Python, web development (PHP, HTML, JavaScript), ... 
+I'm Sifex, a 20-year-old French-Russian developer based in Paris. I'm passionate about coding and have a diverse programming background, including C, C++, Python, Solidity, Rust, web development (PHP, HTML, JavaScript), ... 
 
 - :fr::ru: **Background**: My dual heritage from France and Russia has enriched my problem-solving skills and creativity.
 
