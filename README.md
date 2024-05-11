@@ -4,7 +4,7 @@ I'm Sifex, a 20-year-old French-Russian developer based in Paris. I'm passionate
 
 - :fr::ru: **Background**: My dual heritage from France and Russia has enriched my problem-solving skills and creativity.
 
-- 💻 **Skills**: I'm proficient in C, C++, and Python. I've been coding for five years and achieved high grades during my high school years due to my coding proficiency and passion.
+- 💻 **Skills**: I'm proficient in C, C++, Solidity and Python. I've been coding for five years and achieved high grades during my high school years due to my coding proficiency and passion.
 
 - 🌐 **Web Development**: I've also ventured into web development, building APIs and database systems for my programs, enhancing their functionality.
 
