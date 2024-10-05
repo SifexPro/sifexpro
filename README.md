@@ -16,7 +16,8 @@ I'm Sifex, a 20-year-old French-Russian developer based in Paris. I'm passionate
 
 - 🤖 **Efficiency Bots**: I delved into automation, creating efficient bots. Notably, I designed a sneaker purchasing bot for acquiring limited-edition sneakers for resale. I also explored bot automation for items like PS5 consoles and concert tickets, aiming for profitable resale. This experience merged coding skills with entrepreneurial instincts, enhancing my expertise in automation and efficiency.
 
-- 🌐 **Blockchain**: Working with SpiritSwap.
+- 🌐 **Blockchain**: Experienced Solidity developer with strong expertise in building decentralized applications and custom features like DCA (Dollar-Cost Averaging) and large-scale tokenomics solutions. While my main focus is on Solidity, I also have experience working with Rust, particularly for creating tokens on the Solana blockchain. I have contributed to various blockchain projects, focusing on delivering effective and innovative smart contract solutions.
+Currently contributing to [SilverSwap](https://silverswap.io/)
 
 **GitHub Presence**
 
