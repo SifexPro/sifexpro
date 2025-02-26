@@ -1,24 +1,25 @@
-# About Me
+# About me  
+[![Github](https://img.shields.io/badge/-000?style=flat&logo=Github&logoColor=white)](https://github.com/SifexPro)
+[![Twitter](https://img.shields.io/badge/-000?style=flat&logo=X&logoColor=white)](https://twitter.com/SifexPro)
+[![Gmail](https://img.shields.io/badge/-000?style=flat&logo=Gmail&logoColor=white)](mailto:sifexpro@gmail.com)
+[![Discord](https://img.shields.io/badge/-000?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/238637691779022849)   
+💻 Blockchain & Software Developer | Paris  
 
-I'm Sifex, a 20-year-old French-Russian developer based in Paris. I'm passionate about coding and have a diverse programming background, including C, C++, Python, Solidity, Rust, web development (PHP, HTML, JavaScript), ... 
+<img width="15%" align="right" alt="Github" src="banner.cl" />
 
-- :fr::ru: **Background**: My dual heritage from France and Russia has enriched my problem-solving skills and creativity.
+A passionate developer specializing in **low-level programming**, **blockchain technology** and **system architecture**.  With a background in cybersecurity and software engineering, I focus on building **efficient, scalable, and secure solutions**.  
 
-- 💻 **Skills**: I'm proficient in C, C++, Solidity and Python. I've been coding for five years and achieved high grades during my high school years due to my coding proficiency and passion.
+### 🛠 Technical Expertise
+- **Systems & Security**: C/C++, Typescript, Python, Reverse Engineering, Low-level System Optimization  
+- **Blockchain & DeFi**: Smart Contracts (Solidity, Rust), DApps
+- **Architecture**: System Design, API Development, Database Architecture
+- **Automation & Bots**: Custom high-speed bots for resale, trading, and process automation  
 
-- 🌐 **Web Development**: I've also ventured into web development, building APIs and database systems for my programs, enhancing their functionality.
 
-## Coding Journey
+### 📌 Experience  
+- **Game Hacking & Security** – Started as a cheat developer, crafting high-quality, undetectable cheats with sleek user interfaces. This deepened my understanding of **memory manipulation, bypass techniques, and low-level system interactions**.  
+- **Automation & Resale** – Built **sneaker, PS5, and ticket purchasing bots**, merging coding skills with market strategy.  
+- **Blockchain Development** – Designing **decentralized applications** and **large-scale tokenomics solutions**.  
+- **Currently contributing to [SilverSwap](https://silverswap.io/)** – Working on DeFi innovations and protocol enhancements.
 
-- 🚀 **Hacking Adventures**: I began my coding journey with a hacking mindset at 12-13, exploring cybersecurity intricacies. By 15-16, I'd mastered various skills in this field. Initially, I delved into unconventional activities like website and individual hacking, sparking my coding passion. Over time, I shifted my focus to software development.
-
-- 🎮 **Game Cheats**: During this time, I refined my coding skills by creating sophisticated undetectable cheat software for video games. These cheats not only gave players a competitive advantage but also featured a sleek, user-friendly graphical interface. My main aim was to produce high-quality, effective cheats for sale, enhancing my programming skills significantly.
-
-- 🤖 **Efficiency Bots**: I delved into automation, creating efficient bots. Notably, I designed a sneaker purchasing bot for acquiring limited-edition sneakers for resale. I also explored bot automation for items like PS5 consoles and concert tickets, aiming for profitable resale. This experience merged coding skills with entrepreneurial instincts, enhancing my expertise in automation and efficiency.
-
-- 🌐 **Blockchain**: Experienced Solidity developer with strong expertise in building decentralized applications and custom features like DCA (Dollar-Cost Averaging) and large-scale tokenomics solutions. While my main focus is on Solidity, I also have experience working with Rust, particularly for creating tokens on the Solana blockchain. I have contributed to various blockchain projects, focusing on delivering effective and innovative smart contract solutions.
-Currently contributing to [SilverSwap](https://silverswap.io/)
-
-**GitHub Presence**
-
-<sub>I'm relatively new to GitHub, I've often worked underground, handling private and solo projects, which initially led me to overlook the utility of GitHub. That's why you'll find limited commits in my history. While some projects are open source and available for collaboration, others remain private. GitHub serves as both my portfolio and cloud repository for my projects.</sub>
+<sub>Dev since 2019 | GitHub since 2024</sub>
